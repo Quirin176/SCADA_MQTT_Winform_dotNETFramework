@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DEMO</RootNamespace>
+    <AssemblyName>DEMO</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML">
+      <HintPath>..\packages\ClosedXML.0.102.2\lib\netstandard2.0\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="Devices">
+      <HintPath>..\Driver_Tool\bin\Debug\Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="MQTT_Protocol">
+      <HintPath>..\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HMI_Alarm\HMI_Alarm.csproj">
+      <Project>{9172644C-16FD-42CB-B6F2-C843C9A32994}</Project>
+      <Name>HMI_Alarm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Edition\HMI_Edition.csproj">
+      <Project>{8311A01B-1C21-42E2-B130-2001CED2DBF9}</Project>
+      <Name>HMI_Edition</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Report\HMI_Report.csproj">
+      <Project>{499A37A6-38F6-499C-8684-AD82BE627658}</Project>
+      <Name>HMI_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Security\HMI_Security.csproj">
+      <Project>{6403CE8D-50A7-47D5-AC9A-C05AB1465232}</Project>
+      <Name>HMI_Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Template\HMI_Template.csproj">
+      <Project>{84DA11A0-4F52-42F0-804B-7E853A84CE2F}</Project>
+      <Name>HMI_Template</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Tool\HMI_Tool.csproj">
+      <Project>{01C81BD3-ED2F-49B3-B648-6B24BB3D59EF}</Project>
+      <Name>HMI_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Trend\HMI_Trend.csproj">
+      <Project>{F8B526C1-105B-4B7C-B417-4CB2E47E6803}</Project>
+      <Name>HMI_Trend</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FAN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office_Room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME\ELECTRICITY METER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME\SUN AND MOON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME\USER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Booster_Pump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Domestic Water Tank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drainage_Pump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Friendship_Tower_Building.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logobachkhoasang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

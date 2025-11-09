@@ -1,0 +1,6 @@
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Release\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Release\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Release\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Release\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Release\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Release\MQTT_Protocol.pdb

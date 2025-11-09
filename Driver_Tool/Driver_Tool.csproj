@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE58D94F-329E-40BE-9988-729A2C9CEA78}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Devices</RootNamespace>
+    <AssemblyName>Devices</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dialog\frm_Building.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frm_Building.Designer.cs">
+      <DependentUpon>frm_Building.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frm_Floor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frm_Floor.Designer.cs">
+      <DependentUpon>frm_Floor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frm_Device.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frm_Device.Designer.cs">
+      <DependentUpon>frm_Device.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frm_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frm_Room.Designer.cs">
+      <DependentUpon>frm_Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frm_Tag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frm_Tag.Designer.cs">
+      <DependentUpon>frm_Tag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\IPAddressText.cs" />
+    <Compile Include="frm_TagList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TagList.Designer.cs">
+      <DependentUpon>frm_TagList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TagManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TagManagement.Designer.cs">
+      <DependentUpon>frm_TagManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\Building_Manager.cs" />
+    <Compile Include="Manager\Floor_Manager.cs" />
+    <Compile Include="Manager\Device_Manager.cs" />
+    <Compile Include="Manager\Room_Manager.cs" />
+    <Compile Include="Manager\Tag_Manager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dialog\frm_Building.resx">
+      <DependentUpon>frm_Building.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frm_Floor.resx">
+      <DependentUpon>frm_Floor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frm_Device.resx">
+      <DependentUpon>frm_Device.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frm_Room.resx">
+      <DependentUpon>frm_Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frm_Tag.resx">
+      <DependentUpon>frm_Tag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TagList.resx">
+      <DependentUpon>frm_TagList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TagManagement.resx">
+      <DependentUpon>frm_TagManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddChannel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDataBlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDevice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddGoup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Channel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Choose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Device.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveAs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TagMana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TagManager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MQTT_Protocol\MQTT_Protocol.csproj">
+      <Project>{94d94bca-9619-4af4-b1f9-ab62a9e31397}</Project>
+      <Name>MQTT_Protocol</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Device.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Floor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_Tag.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

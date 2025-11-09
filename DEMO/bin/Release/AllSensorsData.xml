@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllSensorsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sensors>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-13 21:10:42</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57.2 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-13 21:10:42</Datetime>
+      <Battery />
+      <Temperature>27.4 </Temperature>
+      <Humidity>57.2 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-13 21:11:00</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>58.7 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-13 21:11:00</Datetime>
+      <Battery />
+      <Temperature>27.4 </Temperature>
+      <Humidity>58.7 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e8</Sensorname>
+      <Datetime>2024-12-14 15:39:16</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.5 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e8</Sensorname>
+      <Datetime>2024-12-14 15:39:16</Datetime>
+      <Battery />
+      <Temperature>26.8 </Temperature>
+      <Humidity>56.5 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>99b</Sensorname>
+      <Datetime>2024-12-14 15:39:45</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.9 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>99b</Sensorname>
+      <Datetime>2024-12-14 15:39:45</Datetime>
+      <Battery />
+      <Temperature>26.7 </Temperature>
+      <Humidity>56.9 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-14 15:40:40</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.3 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-14 15:40:40</Datetime>
+      <Battery />
+      <Temperature>26.6 </Temperature>
+      <Humidity>56.3 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-14 15:41:00</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.9 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-14 15:41:00</Datetime>
+      <Battery />
+      <Temperature>26.8 </Temperature>
+      <Humidity>56.9 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3ea</Sensorname>
+      <Datetime>2024-12-14 15:42:13</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57.6 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3ea</Sensorname>
+      <Datetime>2024-12-14 15:42:13</Datetime>
+      <Battery />
+      <Temperature>26.5 </Temperature>
+      <Humidity>57.6 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>999</Sensorname>
+      <Datetime>2024-12-14 15:42:28</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.8 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>999</Sensorname>
+      <Datetime>2024-12-14 15:42:28</Datetime>
+      <Battery />
+      <Temperature>27 </Temperature>
+      <Humidity>56.8 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e7</Sensorname>
+      <Datetime>2024-12-14 15:42:36</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>55.2 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e7</Sensorname>
+      <Datetime>2024-12-14 15:42:36</Datetime>
+      <Battery />
+      <Temperature>27.2 </Temperature>
+      <Humidity>55.2 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e8</Sensorname>
+      <Datetime>2024-12-14 15:49:18</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57.6 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e8</Sensorname>
+      <Datetime>2024-12-14 15:49:18</Datetime>
+      <Battery />
+      <Temperature>26.9 </Temperature>
+      <Humidity>57.6 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-14 15:50:40</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>56.4 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2024-12-14 15:50:40</Datetime>
+      <Battery />
+      <Temperature>26.6 </Temperature>
+      <Humidity>56.4 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-14 15:51:00</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2024-12-14 15:51:00</Datetime>
+      <Battery />
+      <Temperature>26.8 </Temperature>
+      <Humidity>57 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3ea</Sensorname>
+      <Datetime>2024-12-14 15:52:13</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57.7 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3ea</Sensorname>
+      <Datetime>2024-12-14 15:52:13</Datetime>
+      <Battery />
+      <Temperature>26.5 </Temperature>
+      <Humidity>57.7 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e7</Sensorname>
+      <Datetime>2024-12-14 15:52:36</Datetime>
+      <Battery>3.667 </Battery>
+      <Temperature>27.3 </Temperature>
+      <Humidity>55.1 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>99c</Sensorname>
+      <Datetime>2024-12-14 15:52:52</Datetime>
+      <Battery />
+      <Temperature />
+      <Humidity>57.5 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>99c</Sensorname>
+      <Datetime>2024-12-14 15:52:52</Datetime>
+      <Battery> </Battery>
+      <Temperature>26.9 </Temperature>
+      <Humidity>57.5 </Humidity>
+    </SensorData>
+  </Sensors>
+</AllSensorsData>

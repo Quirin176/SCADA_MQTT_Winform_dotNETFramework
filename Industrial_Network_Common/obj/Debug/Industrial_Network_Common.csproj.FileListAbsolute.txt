@@ -1,0 +1,42 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Demos\MQTT_Protocol_Nhap\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\bin\Debug\Industrial_Network_Common.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Industrial_Network_Common\obj\Debug\Industrial_Network_Common.pdb

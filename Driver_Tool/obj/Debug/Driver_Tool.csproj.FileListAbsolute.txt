@@ -1,0 +1,153 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Devices\obj\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\M2Mqtt.Net.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\bin\Debug\M2Mqtt.Net.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Motor_Control\Devices\obj\Debug\Driver_Tool.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\M2Mqtt.Net.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\bin\Debug\M2Mqtt.Net.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Devices.frm_TagList.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\Driver_Tool\obj\Debug\Driver_Tool.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\Driver_Tool\obj\Debug\Driver_Tool.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\Driver_Tool\obj\Debug\Driver_Tool.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Channel.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Group.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Building.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Floor.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Room.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Driver_T.0A5B343B.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\Driver_Tool\obj\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Building.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Floor.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Room.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Driver_T.0A5B343B.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\Driver_Tool\obj\Debug\Devices.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\bin\Debug\Devices.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\bin\Debug\Devices.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\bin\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Building.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Floor.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Device.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Room.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.Dialog.frm_Tag.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagList.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.frm_TagManagement.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Devices.Properties.Resources.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.GenerateResource.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_Tool.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Driver_T.0A5B343B.Up2Date
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Devices.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\Driver_Tool\obj\Debug\Devices.pdb

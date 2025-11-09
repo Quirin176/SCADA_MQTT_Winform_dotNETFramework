@@ -1,0 +1,95 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\obj\Debug\HMI_Edition.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\Demo\Nhap2\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\HMI_Edition\obj\Debug\HMI_Edition.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\obj\Debug\HMI_Edition.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edit.AAB25201.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Memory.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Text.Json.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Buffers.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.ValueTuple.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edit.AAB25201.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Edition\obj\Debug\HMI_Edition.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\HMI_Edition.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\HMI_Edition.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\Devices.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\System.Memory.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\System.ValueTuple.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\Devices.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\bin\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.Properties.Resources.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.GenerateResource.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edit.AAB25201.Up2Date
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Edition\obj\Debug\HMI_Edition.pdb

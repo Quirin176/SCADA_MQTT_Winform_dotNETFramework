@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84DA11A0-4F52-42F0-804B-7E853A84CE2F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>HMI_Template</RootNamespace>
+    <AssemblyName>HMI_Template</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devices, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Driver_Tool\bin\Debug\Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="MQTT_Protocol, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FAN_SUMARYBASEMENT_1\FAN_SUMARYBASEMENT_1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FAN_SUMARYBASEMENT_1\FAN_SUMARYBASEMENT_1.Designer.cs">
+      <DependentUpon>FAN_SUMARYBASEMENT_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAN_SUMARYBASEMENT_2\FAN_SUMARYBASEMENT_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FAN_SUMARYBASEMENT_2\FAN_SUMARYBASEMENT_2.Designer.cs">
+      <DependentUpon>FAN_SUMARYBASEMENT_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_EAF\FAN_SUMARYRF_EAF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_EAF\FAN_SUMARYRF_EAF.Designer.cs">
+      <DependentUpon>FAN_SUMARYRF_EAF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_SEF\FAN_SUMARYRF_SEF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_SEF\FAN_SUMARYRF_SEF.Designer.cs">
+      <DependentUpon>FAN_SUMARYRF_SEF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_SPF\FAN_SUMARYRF_SPF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FAN_SUMARYRF_SPF\FAN_SUMARYRF_SPF.Designer.cs">
+      <DependentUpon>FAN_SUMARYRF_SPF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIGHTING_Base\LIGHTING_Base.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LIGHTING_Base\LIGHTING_Base.Designer.cs">
+      <DependentUpon>LIGHTING_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WATER_STP\WATER_STP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WATER_STP\WATER_STP.Designer.cs">
+      <DependentUpon>WATER_STP.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FAN_SUMARYBASEMENT_1\FAN_SUMARYBASEMENT_1.resx">
+      <DependentUpon>FAN_SUMARYBASEMENT_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAN_SUMARYBASEMENT_2\FAN_SUMARYBASEMENT_2.resx">
+      <DependentUpon>FAN_SUMARYBASEMENT_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAN_SUMARYRF_EAF\FAN_SUMARYRF_EAF.resx">
+      <DependentUpon>FAN_SUMARYRF_EAF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAN_SUMARYRF_SEF\FAN_SUMARYRF_SEF.resx">
+      <DependentUpon>FAN_SUMARYRF_SEF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAN_SUMARYRF_SPF\FAN_SUMARYRF_SPF.resx">
+      <DependentUpon>FAN_SUMARYRF_SPF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIGHTING_Base\LIGHTING_Base.resx">
+      <DependentUpon>LIGHTING_Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WATER_STP\WATER_STP.resx">
+      <DependentUpon>WATER_STP.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HMI_Edition\HMI_Edition.csproj">
+      <Project>{8311a01b-1c21-42e2-b130-2001ced2dbf9}</Project>
+      <Name>HMI_Edition</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_Tool\HMI_Tool.csproj">
+      <Project>{01C81BD3-ED2F-49B3-B648-6B24BB3D59EF}</Project>
+      <Name>HMI_Tool</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transfer_Pump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Booster_Pump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Domestic Water Tank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drainage_Pump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floor.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

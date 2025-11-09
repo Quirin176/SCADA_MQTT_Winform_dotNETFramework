@@ -1,0 +1,205 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.exe.config
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.exe
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Tool.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Trend.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ZedGraph.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.dll.config
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Tool.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Trend.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ZedGraph.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\de\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\es\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\fr\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\hu\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\it\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ja\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\pt\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ru\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\sk\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\sv\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\tr\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.Form1.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.exe
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\DEMO.exe.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\DEMO.exe
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\DEMO.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Report.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Security.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Template.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Tool.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Trend.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\ZedGraph.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\System.Buffers.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Alarm.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Report.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Report.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Security.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Security.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Template.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Tool.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\HMI_Trend.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\ZedGraph.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\de\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\es\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\fr\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\hu\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\it\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\ja\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\pt\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\ru\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\sk\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\sv\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\tr\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.Form1.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.frm_Login.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.csproj.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.exe
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\DEMO\obj\Debug\DEMO.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.exe.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.exe
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\DEMO.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Report.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Security.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Template.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Tool.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Trend.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ZedGraph.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Text.Json.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Memory.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Buffers.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.ValueTuple.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Alarm.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Report.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Report.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Security.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Security.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Template.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Tool.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\HMI_Trend.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ZedGraph.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Memory.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Buffers.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\de\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\es\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\fr\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\hu\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\it\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ja\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\pt\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\ru\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\sk\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\sv\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\tr\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.Form1.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.frm_Login.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.csproj.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.exe
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\DEMO\obj\Debug\DEMO.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\DEMO.exe.config
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\DEMO.exe
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\DEMO.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\Devices.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Alarm.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Edition.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Report.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Security.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Template.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Tool.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Trend.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\ZedGraph.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.Text.Json.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.Memory.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.Buffers.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.ValueTuple.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Alarm.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Alarm.dll.config
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Edition.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Report.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Report.dll.config
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Security.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Security.dll.config
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Template.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Tool.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\HMI_Trend.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\Devices.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\ZedGraph.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\de\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\es\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\fr\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\hu\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\it\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\ja\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\pt\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\ru\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\sk\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\sv\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\tr\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.Form1.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.frm_Login.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.csproj.Up2Date
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.exe
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\DEMO\obj\Debug\DEMO.exe.config

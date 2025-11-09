@@ -1,0 +1,42 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\obj\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\obj\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\MQTT_Protocol\MQTT\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\LVTN\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\bin\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\MQTT_Protocol\obj\Debug\MQTT_Protocol.pdb

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllSensorsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sensors>
+    <SensorData>
+      <Sensorname>3e8</Sensorname>
+      <Datetime>2025-01-07 14:04:46</Datetime>
+      <Battery>3.669 </Battery>
+      <Temperature>28.2 </Temperature>
+      <Humidity>51.4 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e9</Sensorname>
+      <Datetime>2025-01-07 14:05:30</Datetime>
+      <Battery>3.671 </Battery>
+      <Temperature>28.4 </Temperature>
+      <Humidity>50 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e6</Sensorname>
+      <Datetime>2025-01-07 14:06:21</Datetime>
+      <Battery>3.674 </Battery>
+      <Temperature>28.4 </Temperature>
+      <Humidity>51.3 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3ea</Sensorname>
+      <Datetime>2025-01-07 14:06:59</Datetime>
+      <Battery>3.67 </Battery>
+      <Temperature>28.3 </Temperature>
+      <Humidity>51.6 </Humidity>
+    </SensorData>
+    <SensorData>
+      <Sensorname>3e7</Sensorname>
+      <Datetime>2025-01-07 14:07:33</Datetime>
+      <Battery>3.667 </Battery>
+      <Temperature>28.5 </Temperature>
+      <Humidity>50.7 </Humidity>
+    </SensorData>
+  </Sensors>
+</AllSensorsData>

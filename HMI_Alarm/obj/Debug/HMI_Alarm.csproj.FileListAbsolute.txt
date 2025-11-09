@@ -1,0 +1,144 @@
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll.config
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Devices.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Edition.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Irony.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\XLParser.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Edition.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Devices.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.pdb
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.AlarmView.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.frm_AlarmTag.resources
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.GenerateResource.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.CopyComplete
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.dll
+D:\VISUAL STUDIO - COMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\HMI_Alarm.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\ExcelNumberFormat.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\Irony.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\SixLabors.Fonts.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Buffers.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.IO.Packaging.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Memory.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\XLParser.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\ExcelNumberFormat.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\SixLabors.Fonts.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Buffers.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.IO.Packaging.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Memory.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.AlarmView.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.frm_AlarmTag.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test2\HMI_Alarm\obj\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll.config
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Devices.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Edition.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Irony.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Buffers.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Memory.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Text.Json.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\XLParser.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.ValueTuple.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\HMI_Edition.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\Devices.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.pdb
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Buffers.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Memory.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.AssemblyReference.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.AlarmView.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.frm_AlarmTag.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.LSN50_LoRa_AlarmView.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.Properties.Resources.resources
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.GenerateResource.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.Up2Date
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.dll
+D:\VISUALSTUDIOCOMMUNITY\Projects\LVTN\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.AssemblyReference.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.AlarmView.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.frm_AlarmTag.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.Properties.Resources.resources
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.GenerateResource.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll.config
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\HMI_Alarm.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\Devices.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\HMI_Edition.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\Irony.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Buffers.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Memory.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\XLParser.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.ValueTuple.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\HMI_Edition.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\Devices.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\ExcelNumberFormat.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\MQTT_Protocol.pdb
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\SixLabors.Fonts.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Buffers.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.IO.Packaging.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Memory.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual_Studio\Visual_Studio\Projects\DEMO\DotNETFramework\WinForm\CS\SCADA_Software_MQTT\Test1\HMI_Alarm\obj\Debug\HMI_Alarm.csproj.Up2Date

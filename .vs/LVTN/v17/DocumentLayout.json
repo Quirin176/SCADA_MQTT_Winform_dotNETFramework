@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|solutionrelative:demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D94BCA-9619-4AF4-B1F9-AB62A9E31397}|MQTT_Protocol\\MQTT_Protocol.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\mqtt_protocol\\mqtt_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D94BCA-9619-4AF4-B1F9-AB62A9E31397}|MQTT_Protocol\\MQTT_Protocol.csproj|solutionrelative:mqtt_protocol\\mqtt_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9172644C-16FD-42CB-B6F2-C843C9A32994}|HMI_Alarm\\HMI_Alarm.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\hmi_alarm\\alarmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172644C-16FD-42CB-B6F2-C843C9A32994}|HMI_Alarm\\HMI_Alarm.csproj|solutionrelative:hmi_alarm\\alarmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|solutionrelative:demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\demo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|solutionrelative:demo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\demo\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7C328-E2D2-4908-A78A-6DE6EFCFB214}|DEMO\\DEMO.csproj|solutionrelative:demo\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403CE8D-50A7-47D5-AC9A-C05AB1465232}|HMI_Security\\HMI_Security.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\hmi_security\\frm_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6403CE8D-50A7-47D5-AC9A-C05AB1465232}|HMI_Security\\HMI_Security.csproj|solutionrelative:hmi_security\\frm_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499A37A6-38F6-499C-8684-AD82BE627658}|HMI_Report\\HMI_Report.csproj|D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\hmi_report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499A37A6-38F6-499C-8684-AD82BE627658}|HMI_Report\\HMI_Report.csproj|solutionrelative:hmi_report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MQTT_Service.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\MQTT_Protocol\\MQTT_Service.cs",
+              "RelativeDocumentMoniker": "MQTT_Protocol\\MQTT_Service.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\MQTT_Protocol\\MQTT_Service.cs",
+              "RelativeToolTip": "MQTT_Protocol\\MQTT_Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:47:30.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.cs",
+              "RelativeDocumentMoniker": "DEMO\\Form1.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.cs [Design]",
+              "RelativeToolTip": "DEMO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:49:00.956Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.cs",
+              "RelativeDocumentMoniker": "DEMO\\Form1.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.cs",
+              "RelativeToolTip": "DEMO\\Form1.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAlwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:33:52.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DEMO\\Form1.Designer.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\Form1.Designer.cs",
+              "RelativeToolTip": "DEMO\\Form1.Designer.cs",
+              "ViewState": "AgIAAGIDAAAAAAAAAAAYwGIDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:38:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_User.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Security\\frm_User.cs",
+              "RelativeDocumentMoniker": "HMI_Security\\frm_User.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Security\\frm_User.cs",
+              "RelativeToolTip": "HMI_Security\\frm_User.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAMYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:05:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Report\\Report.cs",
+              "RelativeDocumentMoniker": "HMI_Report\\Report.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Report\\Report.cs",
+              "RelativeToolTip": "HMI_Report\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:05:14.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Login.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\frm_Login.cs",
+              "RelativeDocumentMoniker": "DEMO\\frm_Login.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\DEMO\\frm_Login.cs",
+              "RelativeToolTip": "DEMO\\frm_Login.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:04:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlarmView.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Alarm\\AlarmView.cs",
+              "RelativeDocumentMoniker": "HMI_Alarm\\AlarmView.cs",
+              "ToolTip": "D:\\Visual_Studio\\Visual_Studio\\Projects\\DEMO\\DotNETFramework\\WinForm\\CS\\SCADA_Software_MQTT\\Test1\\HMI_Alarm\\AlarmView.cs",
+              "RelativeToolTip": "HMI_Alarm\\AlarmView.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAqwD4BAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:32:16.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

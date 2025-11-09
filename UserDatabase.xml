@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <User UserID="1" UserName="Qui" PasswordHash="8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92" Privilege="6" Role="Engineer" />
+  <User UserID="3" UserName="Admin" PasswordHash="03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4" Privilege="8" Role="Admin" />
+  <User UserID="3" UserName="Worker" PasswordHash="0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c" Privilege="4" Role="Worker" />
+</Root>
