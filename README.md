@@ -1,7 +1,20 @@
 # SCADA System (C# .NET Framework)
 
-This is a demo SCADA Building Management System developed in C# WinForms (.NET Framework).
-It demonstrates real-time monitoring, control, and configuration capabilities typically found in industrial automation or IoT environments.
+This is a **demo SCADA Building Management System** developed in **C# WinForms (.NET Framework)**.
+It was created as part of my **Bachelor’s thesis in Automation Engineering**, focusing on **real-time monitoring, control, and configuration** in industrial and IoT environments.
+
+The project demonstrates how a standalone Windows-based SCADA system can integrate **real-time data acquisition**, **alarm handling**, **user access control**, and **MQTT communication** for distributed IoT devices — all built from the ground up without using external SCADA platforms.
+
+---
+
+## Background
+
+This SCADA solution was developed as my **undergraduate thesis project** while studying for a **Bachelor’s degree in Automation Engineering**.
+The goal was to design a modular, extensible, and low-cost building management SCADA platform that could:
+
+- Operate **independently** without cloud or third-party services.
+- Communicate with **LoRaWAN/MQTT** IoT gateways and devices.
+- Provide an easy-to-use **Windows interface** for configuration and supervision.
 
 ---
 
